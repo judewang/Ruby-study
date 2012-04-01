@@ -1,0 +1,13 @@
+!SESSION 2012-03-20 22:40:05.491 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_29
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=zh_TW
+Framework arguments:  -keyring /Users/WANNI/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/WANNI/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.ui 4 4 2012-03-20 22:40:46.144
+!MESSAGE Unable to find Action Set: com.aptana.editor.php.presentation
+
+!ENTRY org.eclipse.core.net 1 0 2012-03-20 22:40:50.256
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
